@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there! ☀️ 
 
+- 🔭 I’m currently working on Articulate Storyline 360.
+  - Check out my Repositories to see the projects I've completed in Articulate Storyline, Rise, Camtasia, and more!
+- 🌱 I’m currently learning HTML and Instructional Design.
+- 💬 Ask me about DnD classes and dissecting media!
+- 😄 Pronouns: She/her
+- ❤️ Fun fact: I love to knit and read stories where characters persevere, but not at the same time!
+
+#### Thanks for stopping by! 🍃
 <!--
 **sonderingink/sonderingink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
