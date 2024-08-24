@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Articulate Storyline 360.
   - Check out my Repositories to see the projects I've completed in Articulate Storyline, Rise, Camtasia, and more!
-  - <a href="https://sonderingink.github.io/Interactive-Orientation/"> Here's a short, fun one where the user types in their name at the start a company orientation. </a>
+  - <a href="https://sonderingink.github.io/Interactive-Orientation/"> Here's a short, fun one where the user types in their name at the start of a company orientation. </a>
 - 🌱 I’m currently learning HTML and more about Instructional Design.
 - 💬 Ask me about DnD classes and dissecting media!
 - 😄 Pronouns: She/her
